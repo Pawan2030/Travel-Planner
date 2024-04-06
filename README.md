@@ -30,7 +30,7 @@ To run the "Plan Your Journey" website locally on your machine, follow these ste
 Clone the repository from GitHub.
 Install dependencies using npm or yarn: npm install or yarn install.
 Start the development server: npm start or yarn start.
-Open your web browser and navigate to [[http://localhost:3000](https://tourismbooking.netlify.app/)](https://tourismbooking.netlify.app/) to view the website.
+Open your web browser and navigate to https://tourismbooking.netlify.app to view the website.
 Usage
 ![Screenshot (383)](https://github.com/Pawan2030/Travel-Planner/assets/136910101/d3d668fc-a351-4359-83d0-d249f821ba5a)
 
